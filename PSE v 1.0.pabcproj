@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project FileVersion="2" Name="PSE v 1.0" MainFile="PSE v 1.0.pas" OutputFileName="PSE v 1.0.exe" OutputDirectory="" ProjectType="ConsoleApp" IncludeDebugInfo="True" GenerateXMLDoc="False" CommandLineArguments="" AppIcon="" DeleteEXE="True" DeletePDB="True" Product="" Company="" Trademark="" Copyright="" MajorVersion="0" MinorVersion="0" BuildVersion="0" RevisionVersion="0">
+  <Items>
+    <Item Type="SourceFile" Name="PSE v 1.0.pas" Path="PSE v 1.0.pas" />
+    <Item Type="SourceFile" Name="Engine.pas" Path="Engine.pas" />
+    <Item Type="SourceFile" Name="Release.txt" Path="Release.txt" />
+    <Item Type="SourceFile" Name="Vars.pas" Path="Vars.pas" />
+    <Item Type="Reference" AssemblyName="System" FullAssemblyName="System.dll" />
+  </Items>
+</Project>

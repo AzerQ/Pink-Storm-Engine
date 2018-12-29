@@ -1,0 +1,12 @@
+The Pink Storm Engine v 1.0b (from 29.12.2018 22:35:14)
+ *New features that have been added: 
+    1: AutoRelease - Automatic release info generation.
+    2: LoadRelease - Loading preRelease time from server.
+
+ *PreLast release - ﻿29.11.2018
+ *Contact us: 
+    1) Web Site: http://it-osnov.simplesite.com 
+    2) E - mail: xxxvorobej71@gmail.com 
+    3) VK.COM: vk.com/azerQ 
+    4) Tumblr: NOT 
+Qazarus inc (c) 2018 
